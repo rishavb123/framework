@@ -1,0 +1,4 @@
+setup.bat
+node_modules
+build.bat
+build
